@@ -444,5 +444,16 @@
       </build>
     </profile>
   </profiles>
+  <distributionManagement>
+    <repository>
+      <id>maven-releases</id>
+      <url>http://13.126.254.91:8081/repository/maven-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>maven-snapshots</id>
+      <url>http://13.126.254.91:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+  </disrtibutionManagement>
+    
 
 </project>
