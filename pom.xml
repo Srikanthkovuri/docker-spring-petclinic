@@ -453,7 +453,7 @@
       <id>maven-snapshots</id>
       <url>http://13.126.254.91:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
-  </disrtibutionManagement>
+  </distributionManagement>
     
 
 </project>
